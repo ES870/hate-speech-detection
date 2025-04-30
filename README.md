@@ -80,7 +80,7 @@ jupyter notebook
 ### 🔗 Model Prediction Correlation
 
 ![Heatmaps of model agreement](images/correlation_heatmaps.png)  
-*Figures 9 & 10: Heatmaps showing how frequently different models agree on predictions, supporting the use of ensemble methods.*
+*Figures 9 & 10: Heatmaps showing model prediction agreement. The **left heatmap** visualizes the correlation between all in-domain classifiers on the OLID dataset, while the **right heatmap** shows the correlation across all cross-domain classifiers on the HASOC dataset. These illustrate the diversity of models — an essential condition for effective ensembling.*
 
 ---
 
